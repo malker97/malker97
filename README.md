@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @malker97
-- 👀 I’m interested in Web3, Cryptography, Security and Full Stack Development
-- 🌱 I’m currently learning K8s
+- 👀 I’m interested in Web3, Cryptography, Security, DevOps and Full Stack Development
+- 🌱 I’m currently learning how to find a job in the states
 
 
 <!---
